@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	《Tony&#039;s Resume Web Pages》的留言	</title>
-	<atom:link href="https://www.tonywebpages.us.kg/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.tonywebpages.us.kg</link>
+	〈Hello world!〉的留言	</title>
+	<atom:link href="https://www.tonywebpages.us.kg/2024/05/28/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tonywebpages.us.kg/2024/05/28/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Tue, 28 May 2024 03:24:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>
-		「A WordPress Commenter」發佈於〈Hello world!〉的留言		</title>
+		留言者: A WordPress Commenter		</title>
 		<link>https://www.tonywebpages.us.kg/2024/05/28/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
